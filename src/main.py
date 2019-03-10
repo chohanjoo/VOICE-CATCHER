@@ -47,8 +47,6 @@ def visualize_frame(q, bubble_q):
     face_cascade.load('haarcascade_frontface.xml')
 
 
-
-
     detector = dlib.get_frontal_face_detector()
     predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 
