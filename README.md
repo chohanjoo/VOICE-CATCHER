@@ -19,7 +19,7 @@
 6. Main.py를 실행합니다. (저희는 Pycham에서 실행하였습니다.)
 
 ## 데모
-
+[데모영상](https://youtu.be/DjnEKcIg3a8)
 
 ## 설치환경
 본 프로젝트는 Window 환경에서 Anaconda Python을 사용하여 구현되었습니다.
